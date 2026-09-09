@@ -29,17 +29,6 @@ The bot answers accurately and provides the source video link.
 
 ![Answer with Source](./answer.png)
 
-### 3. Answer with Source
-The bot answers accurately and provides the source video link.
-
-![Answer with Source](./image1.png)
-
-### 4. Open Source
-Open the source video directly from the answer.
-
-![Open Source](./image.png)
-
-
 ---
 
 ## 🛠️ Tech Stack
