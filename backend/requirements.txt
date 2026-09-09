@@ -1,0 +1,7 @@
+﻿fastapi
+uvicorn
+openai
+pinecone-client
+youtube-transcript-api
+python-dotenv
+tiktoken
