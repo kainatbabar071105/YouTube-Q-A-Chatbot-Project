@@ -2,7 +2,7 @@
 
 An AI-powered chatbot that answers questions from **10 YouTube videos** and provides **source links** to the exact video where the answer was found.
 
-![Interface](interface.png)
+![Interface](./interface.png)
 
 ---
 
@@ -22,22 +22,22 @@ An AI-powered chatbot that answers questions from **10 YouTube videos** and prov
 ### 1. Chat Interface
 Clean, modern interface for asking questions.
 
-![Chat Interface](interface.png)
+![Chat Interface](./interface.png)
 
 ### 2. Answer with Source
 The bot answers accurately and provides the source video link.
 
-![Answer with Source](answer.png)
+![Answer with Source](./answer.png)
 
-### 2. Answer with Source
+### 3. Answer with Source
 The bot answers accurately and provides the source video link.
 
-![Answer with Source](image1.png)
+![Answer with Source](./image1.png)
 
-### 2. open  Source
-The bot answers accurately and provides the source video link.
+### 4. Open Source
+Open the source video directly from the answer.
 
-![open Source](image.png)
+![Open Source](./image.png)
 
 
 ---
