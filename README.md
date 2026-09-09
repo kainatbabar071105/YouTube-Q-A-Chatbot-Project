@@ -2,7 +2,7 @@
 
 An AI-powered chatbot that answers questions from **10 YouTube videos** and provides **source links** to the exact video where the answer was found.
 
-![Interface](./interface.png)
+![Interface](https://raw.githubusercontent.com/kainatbabar071105/YouTube-Q-A-Chatbot-Project/main/interface.png)
 
 ---
 
@@ -22,22 +22,22 @@ An AI-powered chatbot that answers questions from **10 YouTube videos** and prov
 ### 1. Chat Interface
 Clean, modern interface for asking questions.
 
-![Chat Interface](./interface.png)
+![Chat Interface](https://raw.githubusercontent.com/kainatbabar071105/YouTube-Q-A-Chatbot-Project/main/interface.png)
 
 ### 2. Answer with Source
 The bot answers accurately and provides the source video link.
 
-![Answer with Source](./answer.png)
+![Answer with Source](https://raw.githubusercontent.com/kainatbabar071105/YouTube-Q-A-Chatbot-Project/main/answer.png)
 
 ### 3. Answer with Source
 The bot provides a clear answer based on the indexed video content.
 
-![Answer with Source](./image1.png)
+![Answer with Source](https://raw.githubusercontent.com/kainatbabar071105/YouTube-Q-A-Chatbot-Project/main/image1.png)
 
 ### 4. Open Source
 Open the source video directly from the answer.
 
-![Open Source](./image.png)
+![Open Source](https://raw.githubusercontent.com/kainatbabar071105/YouTube-Q-A-Chatbot-Project/main/image.png)
 
 ---
 
